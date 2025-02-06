@@ -40,11 +40,15 @@ public class Main {
             var friend = 19;
             System.out.println(friend);
             {
-            var result = (friend - 2);
-                {
+            var result1 = (friend + 2);
+            System.out.println (result1);
+{
+var result3 = (17 / 7);
+System.out.println (result3);}}}}}
 
-                }
-            System.out.println (result);}}}}
+
+
+
 
 
 
