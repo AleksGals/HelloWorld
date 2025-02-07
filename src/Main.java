@@ -33,18 +33,40 @@ public class Main {
         }
         {
 
-        var result = (763793 - 7639);
-        System.out.println(result);
+            var result = (763793 - 7639);
+            System.out.println(result);
             {
             }
             var friend = 19;
             System.out.println(friend);
             {
-            var result1 = (friend + 2);
-            System.out.println (result1);
-{
-var result3 = (17 / 7);
-System.out.println (result3);}}}}}
+                var result1 = (friend + 2);
+                System.out.println(result1);
+                var result3 = (17 / 7);
+                System.out.println(result3);
+                var frog = 3.5;
+                System.out.println(frog);
+                {
+                    var result2 = (frog * 10);
+                    System.out.println(result2);
+                    var result4 = (result2 / 10);
+                    System.out.println(result4);
+                }
+            }
+        }
+    }
+
+}
+
+
+
+
+
+
+
+
+
+
 
 
 
