@@ -49,8 +49,16 @@ public class Main {
                 {
                     var result2 = (frog * 10);
                     System.out.println(result2);
-                    var result4 = (result2 / 10);
+                    var result4 = (result2 / 3.5);
                     System.out.println(result4);
+                    var fighter_a = 78.2;
+                        var fighter_b = 82.7;
+                        var result5 = (fighter_a + fighter_b);
+                    System.out.println(result5);
+                    var result6 = (fighter_a - fighter_b);
+                    System.out.println(result6);
+
+
                 }
             }
         }
