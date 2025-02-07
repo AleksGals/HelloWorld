@@ -54,9 +54,20 @@ public class Main {
                     var fighter_a = 78.2;
                         var fighter_b = 82.7;
                         var result5 = (fighter_a + fighter_b);
-                    System.out.println(result5);
-                    var result6 = (fighter_a - fighter_b);
-                    System.out.println(result6);
+                    System.out.println(result5 + "общий вес бойцов");
+                    var result6 = (fighter_b - fighter_a);
+                    System.out.println(result6 + "разница веса бойцов");
+                    var result7 = (fighter_a % fighter_b);
+                    System.out.println(result7 + "составляет разница в делении");
+                    var result8 = (640 / 8);
+                    System.out.println("всего работников в компании-" + result8 + "-человек");
+                    var result9 = (80 + 94);
+                    var result10 = (8 * 94);
+                    System.out.println("Если в компании работает-" + result9 + "-человека, то всего-" + (result10 + 640) + "-часа работы может быть поделено между сотрудниками");
+
+
+
+
 
 
                 }
