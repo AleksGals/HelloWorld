@@ -11,8 +11,8 @@ public class Main {
             System.out.println(result12);
             var result13 = (cat + 4);
             System.out.println(result13);
-            var result14 = (paper + 4);
-            System.out.println(result14);
+            var result17 = (paper + 4);
+            System.out.println(result17);
             var result15 = (12 - 3.5);
             System.out.println(result15);
             var result = (7.6 - 1.6);
